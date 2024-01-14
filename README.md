@@ -41,7 +41,7 @@
 
 <details>
 <summary>
-  내가 지금 사용하는 OS
+  SNS
 </summary>
   
   ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
