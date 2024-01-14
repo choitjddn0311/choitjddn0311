@@ -14,6 +14,15 @@
 
 <details>
 <summary>
+  내가 배우고싶은 언어!
+</summary>
+</details>
+
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+<details>
+<summary>
   내가 지금 사용하는 OS
 </summary>
 </details>
