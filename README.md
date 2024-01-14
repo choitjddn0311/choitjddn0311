@@ -3,9 +3,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choitjddn0311)](https://github.com/anuraghazra/github-readme-stats)
 <details>
 <summary>
-  내가 지금 배우는
+  내가 지금 배우는 언어!
 </summary>
-   언어들
 </details>
 
-![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
