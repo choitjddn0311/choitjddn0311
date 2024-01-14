@@ -20,16 +20,20 @@
 <summary>
   내가 배우고싶은 언어!
 </summary>
+  
   ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 </details>
 
 <details>
 <summary>
   내가 지금 사용하는 OS
 </summary>
+  
   ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 </details>
