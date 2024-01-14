@@ -38,3 +38,13 @@
   ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </details>
+
+<details>
+<summary>
+  내가 지금 사용하는 OS
+</summary>
+  
+  ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+</details>
+
