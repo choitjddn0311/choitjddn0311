@@ -5,6 +5,7 @@
 <summary>
   내가 지금 배우는
 </summary>
-   토글 안 내용
+   언어들
 </details>
+
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
