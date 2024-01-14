@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=7fc7d9&text=Student%20Developer&stroke=7fc7d9)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choitjddn0311)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=646464&random=false&width=435&lines=%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC+%EA%BF%88%EA%BE%B8%EB%8A%94+2%ED%95%99%EB%85%84+%EA%B3%A0%EB%93%B1%ED%95%99%EC%83%9D%EC%9E%85%EB%8B%88%EB%8B%A4!!)](https://git.io/typing-svg)
+
 <details>
 <summary>
   내가 지금 배우는 언어!
