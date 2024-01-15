@@ -30,14 +30,6 @@
 
 </details>
 
-<details>
-<summary>
-  내가 지금 사용하는 OS
-</summary>
-  
-  ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</details>
 
 <details>
 <summary>
