@@ -6,7 +6,7 @@
 
 <details>
 <summary>
-  내가 지금 배우는 언어
+  사용가능한 언어 및 배우는 언어들
 </summary>
   
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,7 +18,7 @@
 
 <details>
 <summary>
-  내가 배우고싶은 언어
+  배우고싶은 언어들
 </summary>
   
   ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
