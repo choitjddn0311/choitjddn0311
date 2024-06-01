@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=ccc0&text=Student%20Developer&stroke=f391a0)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=343a40&text=Student%20Developer&stroke=f391a0)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choitjddn0311&hide=contribs,prs&show_icons=true&theme=graywhite)
 
