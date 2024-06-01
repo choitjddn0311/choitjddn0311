@@ -3,6 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choitjddn0311&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=7000&pause=1000&color=464646&background=B2FF5600&random=false&width=500&lines=%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC+%EA%BF%88%EA%BE%B8%EB%8A%94+%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90+2%ED%95%99%EB%85%84+%ED%95%99%EC%83%9D%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=choitjddn0311&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <details>
 <summary>
