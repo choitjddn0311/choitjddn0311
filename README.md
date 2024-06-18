@@ -2,5 +2,5 @@
 
 <h1>Welcome, but just student 😅</h1>
 <div align="center">
-  <img src="https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif?fit=450%2C250&ssl=1" />
+  <img src="https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif?fit=450%2C250&ssl=1" / autoplay>
 </div>
