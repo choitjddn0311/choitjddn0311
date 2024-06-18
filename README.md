@@ -2,5 +2,5 @@
 
 <h1>Welcome, but just student 😅</h1>
 <div align="center">
-  <img src="https://media3.giphy.com/media/hv6RKB3OhmM9k8qqQ7/giphy.gif">
+  <img src="https://www.wyzowl.com/wp-content/uploads/2021/12/tenor.gif">
 </div>
