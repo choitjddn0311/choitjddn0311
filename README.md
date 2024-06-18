@@ -2,5 +2,5 @@
 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/4d/e6/fe/4de6fec9780bb1546110741fe9beaedf.gif" />
+  <img src="https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif?fit=450%2C250&ssl=1" />
 </div>
