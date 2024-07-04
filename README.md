@@ -1,5 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choitjddn0311&hide=contribs,prs&show_icons=true&theme=graywhite)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsk0105&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choitjddn0311&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 <h1>👾 Welcome, but just student 👾</h1>
 <div align="center">
