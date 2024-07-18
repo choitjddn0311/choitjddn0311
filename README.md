@@ -1,4 +1,4 @@
-<h1>Welcome, but just child's style coding haha😂</h1>
+<h1>Welcome, but just high school student😂</h1>
 <h3>I want to grow up famous developer</h3>
 <div align="center">
 <!--   <img src="https://www.wyzowl.com/wp-content/uploads/2021/12/tenor.gif"> -->
