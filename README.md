@@ -4,4 +4,4 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=choitjddn0311)](https://velog.io/@choitjddn0311)
 
 ### MY Language and Skills
-<img src="https://img.shields.io/badge/html5-E34F26?&style=for-the-badge&logo=fortran&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
