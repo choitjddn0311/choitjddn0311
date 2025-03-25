@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/linux-FCC624?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" /> <img src="https://img.shields.io/badge/MYSQL-4479A1?&style=for-the-badge&logo=MYSQL&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" /> 
        </div>
 
-       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choitjddn0311&theme=nord-dark" 
+       <div>
+              <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choitjddn0311&theme=nord-dark" 
        style="width: 70%;" />
+       </div>
 </div>
