@@ -15,6 +15,3 @@
 <a href="https://www.instagram.com/choitjddn31">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
 </a>
-
-### slove algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=choitjddn0311)](https://solved.ac/choitjddn0311)
