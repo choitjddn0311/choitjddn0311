@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/linux-FCC624?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" /> <img src="https://img.shields.io/badge/MYSQL-4479A1?&style=for-the-badge&logo=MYSQL&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 
 ### What Language that i most use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choitjddn0311&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhyunjaes&layout=compact&theme=dark)
 
 ### contact
 <a href="https://www.instagram.com/choitjddn31">
