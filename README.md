@@ -1,4 +1,4 @@
-## 안녕하세요. 최성우의 게으름을 이겨내기 140일차입니다.
+## 안녕하세요. 최성우의 게으름을 이겨내기 142일차입니다.
 
 ### MY Velog's
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=choitjddn0311)](https://velog.io/@choitjddn0311) 
