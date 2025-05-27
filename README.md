@@ -12,3 +12,8 @@
 <a href="https://www.instagram.com/choitjddn31">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
 </a>
+
+
+### certification
+- 정보처리산업기사 | 2025.03
+- 정보처리기능사 | 2025.01
