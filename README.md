@@ -17,3 +17,5 @@
 ### certification
 - 정보처리산업기사 | 2025.03
 - 정보처리기능사 | 2025.01
+
+[유현재 ㅎㅎㅁ](http://onedrive.live.com/?authkey=%21ADBA63TTzJ85rmA&id=768144AA6866CA57%213173632&cid=768144AA6866CA57&sb=name&sd=1)
