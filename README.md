@@ -1,6 +1,5 @@
 ## 안녕하세요. 무모한 도전을 좋아하는 개발자 지망생 최성우입니다!
 ## hello I'm sungwoo choi. thank you for coming my github page. i like a reckless challenge and i want to grow up a developer!
-ㅇ
 ### MY Velog's
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=choitjddn0311)](https://velog.io/@choitjddn0311) 
 <br>
