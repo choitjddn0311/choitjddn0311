@@ -3,7 +3,6 @@
 # 무모한 도전을 좋아하는 개발자 지망생 최성우입니다! 🖐️
 >  I'm sungwoo choi. thank you for coming my github page. i like a reckless challenge and i want to grow up a developer!🖐️
 
-ㅇ
 ## certification 🪪
 - 정보처리산업기사 | 2025.03
 - 정보처리기능사 | 2025.01
