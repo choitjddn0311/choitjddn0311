@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
 </a>
 
-## MY tech blog ✍️
+## My tech blog ✍️
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=choitjddn0311)](https://velog.io/@choitjddn0311) 
 <br>
 
