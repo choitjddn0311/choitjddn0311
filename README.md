@@ -1,4 +1,4 @@
-//![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=안녕하세요!&desc=hello!&fontSize=50&descSize=20&fontColor=555555&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=안녕하세요!&desc=hello!&fontSize=50&descSize=20&fontColor=555555&fontAlignY=30)
 
 # 무모한 도전을 좋아하는 개발자 지망생 최성우입니다! 🖐️
 >  I'm Sungwoo Choi. thank you for coming my github page. i like a reckless challenge and i want to grow up a developer!🖐️
