@@ -8,6 +8,11 @@
 - 정보처리산업기사 | 2025.03
 - 웹디자인개발기능사 | 2025.06
 
+## awards 🎖️
+- 2024년 인천지방기능경기대회 동메달
+- 2025년 인천지방기능경기대회 은메달
+- 제 60회 광주 전국기능경기대회 장려
+
 ## MY Language and Skills 💬 & 🔧
 ### frontend 🎨
 <img src="https://img.shields.io/badge/html5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-1572B6?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=white" /> 
@@ -18,10 +23,6 @@
 ### etc ➕
 <img src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 
-### awards 🎖️
-- 2024년 인천지방기능경기대회 동메달
-- 2025년 인천지방기능경기대회 은메달
-- 제 60회 광주 전국기능경기대회 장려
 
 ## contact 📞
 <a href="https://www.instagram.com/choitjddn31">
