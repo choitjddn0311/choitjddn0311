@@ -18,6 +18,11 @@
 ### etc ➕
 <img src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 
+### awards 🎖️
+- 2024년 인천지방기능경기대회 동메달
+- 2025년 인천지방기능경기대회 은메달
+- 제 60회 광주 전국기능경기대회 장려
+
 ## contact 📞
 <a href="https://www.instagram.com/choitjddn31">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
