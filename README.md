@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=안녕하세요!&desc=&fontSize=50&descSize=20&fontColor=555555&fontAlignY=30)
-
-# 무모한 도전 좋아하는 개발자 지망생 최성우입니다! 🖐️
->  I'm Sungwoo Choi. thank you for coming my github page. i like a reckless challenge and i want to grow up a developer!🖐️
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=안녕하세요!&desc=&fontSize=50&descSize=20&fontColor=555555&fontAlignY=30) -->
+<!-- -->
+<!-- # 무모한 도전 좋아하는 개발자 지망생 최성우입니다! 🖐️
+ >  I'm Sungwoo Choi. thank you for coming my github page. i like a reckless challenge and i want to grow up a developer!🖐️
 
 ## certification 🪪
 - 정보처리기능사 | 2025.01
@@ -31,7 +31,9 @@
 
 ## My tech blog ✍️
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=choitjddn0311)](https://velog.io/@choitjddn0311) 
-<br>
+<br> -->
 
 
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=choitjddn0311)](https://velog.io/@choitjddn0311) -->
+
+# think deeply, dream big
