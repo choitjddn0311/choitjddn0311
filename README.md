@@ -37,3 +37,14 @@
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=choitjddn0311)](https://velog.io/@choitjddn0311) -->
 
 # think deeply, dream big
+**Experience** <br>
+2024 인천지방기능경기대회 웹 디자인 및 개발 동메달🥉 <br>
+2025 인천지방기능경기대회 웹 디자인 및 개발 은메달🥈 <br>
+2025 광주 전국기능경기대회 웹 디자인 및 개발 장려상(14위) <br>
+2025 progate seoul hackathon 2등 <br>
+2024.08~ 현재 (유) 슬렉슨 근무
+
+**certificate** <br>
+정보처리기능사 <br>
+정보처리산업기사 <br>
+웹디자인개발기능사 <br>
